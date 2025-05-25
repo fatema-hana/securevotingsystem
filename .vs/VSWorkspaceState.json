@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\contracts",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\components\\Features",
+    "\\frontend\\src\\components\\Home",
+    "\\frontend\\src\\styles\\pages",
+    "\\frontend\\src\\styles\\pages\\User"
+  ],
+  "SelectedNode": "\\backend\\contracts\\Election.sol",
+  "PreviewInSolutionExplorer": false
+}
